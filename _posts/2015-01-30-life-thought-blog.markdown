@@ -20,22 +20,22 @@ Writing is a tool to expand my memory. It also creates a physical manifestation 
 
 
 __Why write a journal?__
-Writing down thoughts daily, accumulated the above benefits. It formed a habit of clearing my mind before starting work. It also helped me store my ideas logically and to assess my thought process and progress over time.
+Writing down thoughts daily, accumulates the above benefits. I formed a habit of clearing my mind before starting work. It also helps me store my ideas logically and to assess my thought process and progress over time.
 
 
 __Why share my journal?__
-After I improved my life by writing, I wanted to pass my insights on to my children. I do talk with them, but I can never express my thinking as concise and well-formed as I do in writing.
+If I improve my life by writing, I naturally want to pass my insights on to my children. I do talk with them, but I can never express my thinking as concise and well-formed as I do in writing.
 
-We each have our daily rhythms and obligations, but my written words are always there, ready to be read when the need arises. I hope that they can be used as shortcuts to a better life. All they require is trust in my answers I wrote down to questions I had thought about some time ago.
+We each have our daily rhythms and obligations, but my written words are always there, ready to be read when the need arises. I hope that they can be used as shortcuts to a better life. All that is required is trust in my answers I wrote down to questions I had thought about some time ago.
 
-Of course, they can reject them and come up with their own ideas. I encourage it. Even then, the answer that was wrong for them still provides a milestone on their way to their own solution.
+Of course, my kids can reject them and come up with their own ideas. I encourage it. Even then, the answer that was wrong for them still provides a milestone on their way to finding their own resolution.
 
-Furthermore, if they should arrive at the same exact answer, after taking a personal detour and rejecting their own false conclusions, it will build trust in my writings. Next time they could arrive quicker at B coming from A, simply by choosing the route I had mapped out a while ago and written down for later reference.
+Furthermore, if they should arrive at the same exact answer, after taking a personal detour and having found reason to reject a number of other false conclusions, it will build trust in my writings. Next time they could arrive quicker at B coming from A, simply by choosing the route I had mapped out a while ago and written down for later reference.
 
 
 __Why write a blog?__
 If I can improve the lives of my kin, I can improve the lives of strangers. All that is required is making my journal public and persuade the reader to trust in the answers I found to life’s random conundrums.
 
-I am not peddling a get-rich-quick scheme, nor do I claim having the answers to everything. I just thought about stuff and here is what I think it means. The small possibility of helping someone is just an added reward to the many I mentioned above. If just one stranger is helped by something I wrote, the blog is worth it. If the only readers I ever reach are my family, the blog is worth it (even if it is unnecessarily public). If no one but me reads my writings, it is still worth it, because writing is a benefit in and of itself that does not diminish by its location or access permissions.
+I am not peddling a get-rich-quick scheme, nor do I claim having the answers to everything. I just thought about stuff, wrote down what I think it means and how that is useful to me. The small possibility of helping someone is just an added reward to the many mentioned above. If just one stranger is helped by something I wrote, the blog is worth it. If the only readers I ever reach are my family, the blog is worth it (even if it is unnecessarily public). If no one but me reads my writings, it is still worth it, because writing is a benefit in and of itself that does not diminish by its location or access permissions.
 
 A blog combines all of the above into one neat package. I see no reason not to blog.
