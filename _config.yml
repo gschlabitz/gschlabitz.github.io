@@ -2,7 +2,7 @@
 title: Life Thought Blog
 email: guido.schlabitz@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog journalling the thoughts of my life.
+  A blog journaling the thoughts of my life.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gschlabitz.github.io" # the base hostname & protocol for your site
 twitter_username: wordmincer
@@ -10,3 +10,4 @@ github_username:  gschlabitz
 
 # Build settings
 markdown: kramdown
+permalink: pretty

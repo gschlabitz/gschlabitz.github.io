@@ -2,7 +2,7 @@
 layout: post
 title:  "Life Thought Blog"
 date:   2015-01-30 11:25:03
-categories: jekyll update
+categories: life ideas
 ---
 
 __Why live?__
@@ -38,4 +38,4 @@ If I can improve the lives of my kin, I can improve the lives of strangers. All 
 
 I am not peddling a get-rich-quick scheme, nor do I claim having the answers to everything. I just thought about stuff and here is what I think it means. The small possibility of helping someone is just an added reward to the many I mentioned above. If just one stranger is helped by something I wrote, the blog is worth it. If the only readers I ever reach are my family, the blog is worth it (even if it is unnecessarily public). If no one but me reads my writings, it is still worth it, because writing is a benefit in and of itself that does not diminish by its location or access permissions.
 
-I see no reason not to blog.
+A blog combines all of the above into one neat package. I see no reason not to blog.
