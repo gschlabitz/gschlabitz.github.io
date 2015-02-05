@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Virtual Zen Machine"
-date:   2015-01-30 11:25:03
+date:   2015-02-05 17:25:00
 categories: pro tip
 ---
 
