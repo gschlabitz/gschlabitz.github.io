@@ -10,13 +10,13 @@ To work on improving my live and that of others.
 
 
 __Why think?__
-To focus on my work I need a quiet mind. Unfinished thoughts are loud and distracting. I sometimes can suppress them, but it does not last. Meditation helps with letting them go, but they always return. Sometimes the goods ones do not. The bad ones are soon even louder than they were before. They are just waiting for you to open your eyes so they can resume their kabuki of distraction.
+To focus on my work I need a quiet mind. Unfinished thoughts are loud and distracting. I sometimes can suppress them, but it does not last. Meditation helps with letting them go, but they always return. Sometimes the good ones do not. The bad ones are soon even louder than they were before. They are just waiting for you to open your eyes so they can resume their kabuki of distraction.
 
 The best way to leave a rumination behind is to arrive at a solution. If the solution is true, the thought dissolves into clarity and deeper understanding. Both improve my life and focus.
 
 
 __Why write?__
-Writing is a tool to expand my memory. It also creates a physical manifestation that exists outside of my brain. This relocation removes all but the most powerful notions from the noisy, ever-lasting cacophony of contemplation. It also enables concrete manipulation and inspection of formerly immaterial theories. This extra work space helps my find a solution faster at a time of my choosing.
+Writing is a tool to expand my memory. It also creates a physical manifestation that exists outside of my brain. This relocation removes all but the most powerful notions from the noisy, ever-lasting cacophony of contemplation. It also enables concrete manipulation and inspection of formerly immaterial theories. This extra work space helps me find a solution faster at a time of my choosing.
 
 
 __Why write a journal?__
