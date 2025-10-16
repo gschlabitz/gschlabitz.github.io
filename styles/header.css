@@ -27,13 +27,13 @@ header ul li {
 header a {
   text-decoration: none;
   vertical-align: middle;
-  color: var(--ctp-mocha-green);
+  color: var(--ctp-mocha-text);
 }
 header a:hover {
   fill: var(--ctp-mocha-lavender);
 }
 header a:visited {
-  color: var(--ctp-mocha-green);
+  color: var(--ctp-mocha-text);
 }
 
 header a[target="_blank"]::after {
@@ -44,7 +44,7 @@ header svg {
   height: 2rem;
   margin: 0 -0.5rem;
   display: inline-block;
-  fill: var(--ctp-mocha-green);
+  fill: var(--ctp-mocha-text);
 }
 
 header a:hover svg {

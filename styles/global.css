@@ -17,10 +17,7 @@ body {
 }
 
 main {
-  /* 
-    For readability, don't allow the main content to be wider than 80 characters. 
-    For smaller screens the width can be as wide as the device.
-  */
+  /* Limit width for readability on large screens. */
   max-width: min(100%, 66ch);
   margin: 0 auto;
   padding: 1rem;
