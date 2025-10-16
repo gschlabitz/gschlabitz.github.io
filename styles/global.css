@@ -4,7 +4,10 @@
 body {
   box-sizing: border-box;
 
-  font-family: sans-serif;
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
 
   margin: 0;
   padding: 0;
@@ -18,23 +21,61 @@ main {
     For readability, don't allow the main content to be wider than 80 characters. 
     For smaller screens the width can be as wide as the device.
   */
-  max-width: min(100%, 80ch);
+  max-width: min(100%, 66ch);
   margin: 0 auto;
   padding: 1rem;
 }
 
 p {
-  line-height: 3ch;
+  line-height: 2.2ch;
 }
 
 a {
-  color: var(--ctp-mocha-lavender);
+  color: var(--ctp-mocha-blue);
+  text-decoration: none;
 }
 
 a:visited {
-  color: var(--ctp-mocha-lavender);
+  color: var(--ctp-mocha-blue);
 }
 
 a:hover {
-  color: var(--ctp-mocha-blue);
+  color: var(--ctp-mocha-lavender);
+}
+
+a[target="_blank"]::after {
+  /* Unicode character indicating external link */
+  content: "⧉";
+  margin-left: 0.25em;
+  vertical-align: middle;
+  color: inherit;
+  pointer-events: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Google Sans Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  fill: var(--ctp-mocha-green);
+}
+
+details > .panel {
+  overflow: hidden;
+  transition: max-height 0.25s ease;
+  max-height: 0;
+}
+details[open] > .panel {
+  max-height: 800px;
+  margin: 0 1rem;
+}
+summary {
+  cursor: pointer;
+  font-size: large;
+  color: var(--ctp-mocha-peach);
 }

@@ -3,7 +3,6 @@ header {
   justify-content: space-between;
   align-items: center;
 
-  font-size: 2rem;
   padding: 1rem;
 }
 
@@ -28,18 +27,26 @@ header ul li {
 header a {
   text-decoration: none;
   vertical-align: middle;
+  color: var(--ctp-mocha-green);
 }
 header a:hover {
-  fill: var(--ctp-mocha-blue);
+  fill: var(--ctp-mocha-lavender);
+}
+header a:visited {
+  color: var(--ctp-mocha-green);
+}
+
+header a[target="_blank"]::after {
+  content: none;
 }
 
 header svg {
   height: 2rem;
   margin: 0 -0.5rem;
   display: inline-block;
-  fill: var(--ctp-mocha-text);
+  fill: var(--ctp-mocha-green);
 }
 
 header a:hover svg {
-  fill: var(--ctp-mocha-blue);
+  fill: var(--ctp-mocha-lavender);
 }
