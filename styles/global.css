@@ -1,0 +1,40 @@
+@import "catppuccin.css";
+@import "header.css";
+
+body {
+  box-sizing: border-box;
+
+  font-family: sans-serif;
+
+  margin: 0;
+  padding: 0;
+
+  background: var(--ctp-mocha-base);
+  color: var(--ctp-mocha-text);
+}
+
+main {
+  /* 
+    For readability, don't allow the main content to be wider than 80 characters. 
+    For smaller screens the width can be as wide as the device.
+  */
+  max-width: min(100%, 80ch);
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+p {
+  line-height: 3ch;
+}
+
+a {
+  color: var(--ctp-mocha-lavender);
+}
+
+a:visited {
+  color: var(--ctp-mocha-lavender);
+}
+
+a:hover {
+  color: var(--ctp-mocha-blue);
+}
