@@ -7,16 +7,10 @@ plugins:
   - jekyll-remote-theme
 minima:
   nav_pages:
-    - title: Home
-      url: /
-    - title: Links
-      url: /links.md
-    - title: Life Hacks
-      url: /hacks.md
-    - title: Biography
-      url: /bio.md
-    - title: Recipes
-      url: /recipes/index.md
+    - links.md
+    - hacks.md
+    - recipes/index.md
+    - bio.md
   social_links:
     - title: GitHub
       url: "https://github.com/gschlabitz"

@@ -1,5 +1,5 @@
 ---
-title: Guido Schlabitz - Links
+title: Links
 ---
 
 [Home](/)

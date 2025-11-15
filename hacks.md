@@ -1,5 +1,5 @@
 ---
-title: Guido Schlabitz - Life Hacks
+title: Life Hacks
 ---
 
 I often made my life harder than it had to be. When I finally discovered or read

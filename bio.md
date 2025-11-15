@@ -1,5 +1,5 @@
 ---
-title: Guido Schlabitz - Biography
+title: Bio
 ---
 
 [Home](/)
