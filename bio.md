@@ -2,6 +2,6 @@
 title: Bio
 ---
 
-[Home](/)
+### Biography TODO
 
-Biography TODO: Use markwhen to create a timeline-based interactive biography.
+- [ ] Use [markwhen](https://markwhen.com/) to create a timeline-based interactive biography.

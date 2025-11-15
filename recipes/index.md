@@ -12,4 +12,4 @@ that you know basic cooking procedures like blanching, sautéing, etc.
 
 ## German Side Dishes
 
-[Boiled Potatoes](boiled-potatoes.md)
+- [Boiled Potatoes](boiled-potatoes.md)

@@ -1,6 +1,4 @@
 title: Guido Schlabitz
-tagline: Personal recommendations from me to you.
-description: This is my personal website sharing knowledge I have accumulated with the world.
 show_downloads: true
 remote_theme: jekyll/minima
 plugins:
@@ -8,7 +6,7 @@ plugins:
 minima:
   nav_pages:
     - links.md
-    - hacks.md
+    - hacks/index.md
     - recipes/index.md
     - bio.md
   social_links:

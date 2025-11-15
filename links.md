@@ -4,32 +4,32 @@ title: Links
 
 ## Video
 
-[Twitch](https://www.twitch.tv/directory/following)
-[Youtube](https://www.youtube.com/feed/subscriptions)
+- [Twitch](https://www.twitch.tv/directory/following)
+- [Youtube](https://www.youtube.com/feed/subscriptions)
 
 ## Blogs
 
-[Antje's Travel Insta](https://www.instagram.com/travel2live.de)
+- [Antje's Travel Insta](https://www.instagram.com/travel2live.de)
 
 ## Web Comics
 
-[XKCD](https://www.xkcd.com/)
-[The Oatmeal](https://theoatmeal.com/)
+- [XKCD](https://www.xkcd.com/)
+- [The Oatmeal](https://theoatmeal.com/)
 
 ## Web Design
 
 ### Wireframe
 
-[Figma](https://www.figma.com)
-[Sketch](https://www.sketch.com)
+- [Figma](https://www.figma.com)
+- [Sketch](https://www.sketch.com)
 
 ### Fonts
 
-[Google Fonts](https://fonts.google.com)
+- [Google Fonts](https://fonts.google.com)
 
 ### Color Palette
 
-[Catppuccin Colors](https://catppuccin.com)
+- [Catppuccin Colors](https://catppuccin.com)
 
 ### Icons
 
