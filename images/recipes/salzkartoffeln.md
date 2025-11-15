@@ -1,6 +1,8 @@
-# Salzkartoffeln (boiled potatoes)
+---
+title: Recipes - Salzkartoffeln (boiled potatoes)
+---
 
-Also known as [Frikadelle](https://en.wikipedia.org/wiki/Frikadelle).
+Salzkartoffeln (boiled potatoes)
 
 ## Ingredients
 

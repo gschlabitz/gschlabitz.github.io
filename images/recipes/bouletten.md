@@ -1,3 +1,7 @@
+---
+title: Recipes - Bouletten (meatballs)
+---
+
 # Bouletten (meatballs but big)
 
 Also known as [Frikadelle](https://en.wikipedia.org/wiki/Frikadelle).
