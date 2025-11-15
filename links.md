@@ -2,9 +2,19 @@
 title: Links
 ---
 
-[Home](/)
+## Video
 
-Biography TODO: Use markwhen to create a timeline-based interactive biography.
+[Twitch](https://www.twitch.tv/directory/following)
+[Youtube](https://www.youtube.com/feed/subscriptions)
+
+## Blogs
+
+[Antje's Travel Insta](https://www.instagram.com/travel2live.de)
+
+## Web Comics
+
+[XKCD](https://www.xkcd.com/)
+[The Oatmeal](https://theoatmeal.com/)
 
 ## Web Design
 

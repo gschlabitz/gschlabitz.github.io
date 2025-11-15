@@ -1,21 +1,6 @@
 ---
-title: Life Hacks
+title: Life Hacks - Track your finances and budget for free
 ---
-
-I often made my life harder than it had to be. When I finally discovered or read
-about a better solution to everyday problems, I smacked my forehead and
-exclaimed: _"Why didn't I think of this before??"_
-
-To save you some time and forehead pain, here is a collection of useful hacks
-that helped me in my life.
-
-## Host your personal website for free
-
-Create a free account on [GitHub](https://github.com) then follow the
-[Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart)
-instructions. That's how I made this website!
-
-## Track your finances and budget for free
 
 I've used many personal finance tools over the years, for example:
 
@@ -44,16 +29,3 @@ jobs! I personally use [Pages](https://apps.apple.com/us/app/pages/id409201541),
 as it came free with my Mac, but if you have free access to
 [Excel](https://www.microsoft.com/en-us/microsoft-365/excel), I would recommend
 that, especially if you're keen on padding your job skills.
-
-## Sync bookmarks between browsers
-
-To collect bookmarks, share them with people, and keep your collection
-synchronized between devices, you could use a tool like
-[Raindrop.io](https://raindrop.io) or a [browser
-extension](https://chromewebstore.google.com/search/synchronize%20bookmarks).
-
-**Or** you can make your own webpage of links! No fuss, no muss! Add your links
-to the page, categorize them the way you like, maybe even add some notes. Then
-publish the page on your website and everyone is up to date. Your friends and
-your browsers can all access it easily. There is really no need for a database
-here!
