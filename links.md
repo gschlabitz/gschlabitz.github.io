@@ -4,8 +4,12 @@ title: Links
 
 ## Video
 
+### Platforms I like
 - [Twitch](https://www.twitch.tv/directory/following)
 - [Youtube](https://www.youtube.com/feed/subscriptions)
+
+### Shows I'm watching
+- [The Legend of Vox Machina](https://www.amazon.com/gp/video/detail/B09PZGQMD7/)
 
 ## Blogs
 
