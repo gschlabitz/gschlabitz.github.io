@@ -1,5 +1,5 @@
 ---
-title: Guido's Home Page
+title: Homepage
 ---
 
 ## [Watch](/links/watch)
