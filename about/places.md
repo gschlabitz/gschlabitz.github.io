@@ -1,11 +1,12 @@
 ---
 title: Places
 ---
+
 TODO: the map view looks kinda meh
 Probably better to make a SPA for Google Maps.
 Would be cool to animate moving between locations.
 Maybe Hollywood OS style with animated zoom boxes
-enhancing... switch from map to satellite 
+enhancing... switch from map to satellite
 or maybe enhancing is just the loading indicator, i.e. detect when Google maps is loading tiles.
 
 Hollywood OS flow
@@ -13,6 +14,7 @@ Hollywood OS flow
 Tracking subject Guido Schlabitz...
 Retrieving dossier...
 Display sections:
+
 - early life
 - education
 - military background
@@ -24,9 +26,6 @@ Last sighted near multiple locations in Urbana and Champaign.
 
 Workplaces could be fronts for spy work
 Worked at contractor for E-Plus to gain access to cellular networks.
-
-
-
 
 1972: Kleinmachnow, Brandenburg, Germany
 location: [Kleinmachnow]
