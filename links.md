@@ -15,6 +15,10 @@ title: Links
 
 - [Antje's Travel Insta](https://www.instagram.com/travel2live.de)
 
+## Music
+
+- [Every Noise](https://everynoise.com/)
+
 ## Web Comics
 
 - [XKCD](https://www.xkcd.com/)

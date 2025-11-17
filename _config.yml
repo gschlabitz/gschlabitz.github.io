@@ -4,11 +4,12 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
 minima:
+  skin: dark
   nav_pages:
-    - links.md
+    - links/index.md
     - hacks/index.md
     - recipes/index.md
-    - bio.md
+    - about/index.md
   social_links:
     - title: GitHub
       url: "https://github.com/gschlabitz"
@@ -19,3 +20,6 @@ minima:
     - title: Twitter
       url: "https://twitter.com/gschlabitz"
       icon: "fab fa-twitter"
+    - title: Instagram
+      url: "https://www.instagram.com/gschlabitz/"
+      icon: "fab fa-instagram"
