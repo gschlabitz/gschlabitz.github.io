@@ -1,12 +1,17 @@
 ---
-title: Guido Schlabitz - Personal Website
+title: Guido's Home Page
 ---
 
-| Category                | Quick Links |
-| ----------------------- | ----------- |
-| [Watch](/links/watch)   |             |
-| [Play](/links/play)     |             |
-| [Listen](/links/listen) |             |
-| [Read](/links/read)     |             |
-| [DYI](/links/dyi)       |             |
-| [Local](/links/local)   |             |
+## [Watch](/links/watch)
+
+[YouTube](youtube.com/subscriptions)
+
+## [Play](/links/play)
+
+## [Listen](/links/listen)
+
+## [Read](/links/read)
+
+## [DYI](/links/dyi)
+
+## [Local](/links/local)

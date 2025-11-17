@@ -4,12 +4,12 @@ title: About
 
 ## About this website
 
-This is my personal website doubling as a sharing hub for things I'm interested
-in.
+This is my personal website doubling as a sharing hub for things that interest
+me.
 
 Instead of using multiple apps to share notes, bookmarks, feeds, etc., I
-collect it all here and make it available in all my browsers, devices, friends,
-family and whoever stumbles upon it while traversing the Web.
+collect it all here to make it available in all my browsers, devices, friends,
+family, and whoever stumbles upon it while traversing the Web.
 
 I'm using [GitHub's](https://docs.github.com/) [Jekyll](https://jekyllrb.com/)
 [integration](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll)
