@@ -12,3 +12,7 @@
 ## Wallpaper
 
 - [Wallhaven](https://wallhaven.cc)
+
+## VR
+
+- [Linux VR Adventures](https://lvra.gitlab.io/)
