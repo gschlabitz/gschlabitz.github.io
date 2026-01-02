@@ -9,9 +9,23 @@ title: Links
 - [Twitch](https://www.twitch.tv/directory/following)
 - [Youtube](https://www.youtube.com/feed/subscriptions)
 
-### Shows I'm watching
+### Shows I'm currently watching
 
 - [The Legend of Vox Machina](https://www.amazon.com/gp/video/detail/B09PZGQMD7/)
+
+### Shows I keep rewatching
+
+- [Black Mirror](https://www.netflix.com/title/70264888)
+- [Kaguya-Sama: Love is War](https://www.crunchyroll.com/series/GRJ0J828Y/kaguya-sama-love-is-war)
+
+## Software
+
+### Evaluating
+
+[Row Zero Spreadsheet](https://rowzero.com/)
+[Google Antigravity](https://antigravity.google/)
+[Pools on PS5](https://www.youtube.com/watch?v=NNxw47r7eto)
+Use [Airtable](https://www.airtable.com/) or [Nocodb](https://github.com/nocodb/nocodb) for personal budgeting?
 
 ## Blogs
 
