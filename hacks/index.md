@@ -10,5 +10,4 @@ To save you some time and forehead pain, here is a collection of useful hacks
 that helped me in my life.
 
 - [Host your personal website for free](website.md)
-- [Track your finances and budget for free](budget.md)
 - [Sync bookmarks between browsers](bookmarks.md)

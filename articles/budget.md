@@ -1,5 +1,5 @@
 ---
-title: Life Hacks - Track your finances and budget for free
+title: Personal budgeting
 ---
 
 I've used many personal finance tools over the years, for example:
