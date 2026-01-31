@@ -17,6 +17,11 @@ title: Links
 
 - [Antje's Travel Insta](https://www.instagram.com/travel2live.de)
 
+## Learning
+
+- [Boot.dev](https://www.boot.dev/dashboard)
+- [Chai with Jai](https://grow.chaiwithjai.com/)
+
 ## Music
 
 - [Every Noise](https://everynoise.com/)
