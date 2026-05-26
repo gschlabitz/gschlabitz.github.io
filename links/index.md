@@ -8,6 +8,7 @@ title: Links
 
 - [Twitch](https://www.twitch.tv/directory/following)
 - [Youtube](https://www.youtube.com/feed/subscriptions)
+- [Cloudflare](https://dash.cloudflare.com/)
 
 ### Shows I'm watching
 
@@ -21,6 +22,8 @@ title: Links
 
 - [Boot.dev](https://www.boot.dev/dashboard)
 - [Chai with Jai](https://grow.chaiwithjai.com/)
+- [Apple MLX](https://ml-explore.github.io/mlx/)
+- [PDM](https://pdm-project.org)
 
 ## Music
 
