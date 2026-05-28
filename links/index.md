@@ -4,13 +4,13 @@ title: Links
 
 ## Video
 
-### Platforms I like
+### Platforms
 
 - [Twitch](https://www.twitch.tv/directory/following)
 - [Youtube](https://www.youtube.com/feed/subscriptions)
 - [Cloudflare](https://dash.cloudflare.com/)
 
-### Shows I'm watching
+### Shows
 
 - [The Legend of Vox Machina](https://www.amazon.com/gp/video/detail/B09PZGQMD7/)
 
@@ -34,7 +34,9 @@ title: Links
 - [XKCD](https://www.xkcd.com/)
 - [The Oatmeal](https://theoatmeal.com/)
 
-## Web Design
+## Image Tools
+
+- [Upscayl](https://upscayl.org/)
 
 ### Wireframe
 
